@@ -1,7 +1,7 @@
 VERSION = 3
 PATCHLEVEL = 0
 SUBLEVEL = 72
-EXTRAVERSION =
+EXTRAVERSION = .1-jain-samsung-tuna
 NAME = Sneaky Weasel
 
 # *DOCUMENTATION*
